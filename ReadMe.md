@@ -16,6 +16,7 @@ Store
 2. Write information
 3. Read Informaiton
 
+`npm install`
 `npm run dev`
 
 
